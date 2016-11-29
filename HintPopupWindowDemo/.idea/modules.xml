@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RippleDemo.iml" filepath="$PROJECT_DIR$/RippleDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HintPopupWindowDemo.iml" filepath="$PROJECT_DIR$/HintPopupWindowDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

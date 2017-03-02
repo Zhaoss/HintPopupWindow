@@ -1,6 +1,3 @@
-## HintPopupWindow
-带模糊特效的选项提示弹出框
-
 在某个版本更新时, UI要求弹出选项框类似于下面的效果:
 
 ![image](http://upload-images.jianshu.io/upload_images/2582948-a06b1a364aacd8c4.gif?imageMogr2/auto-orient/strip)

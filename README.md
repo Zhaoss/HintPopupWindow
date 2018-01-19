@@ -37,6 +37,9 @@ android里面的高斯模糊我大概总结了一下 基本有三种, 优缺点�
 
 ![image](http://upload-images.jianshu.io/upload_images/2582948-37d35360b9d249cf.gif?imageMogr2/auto-orient/strip)
 
+* * *   
+<br /> 
+
 # MIT License
 Copyright (c) 2017 Zhaoss (838198688@qq.com)
 
